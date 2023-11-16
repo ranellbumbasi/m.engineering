@@ -93,3 +93,9 @@ nav img{
     width: 800px;
     height: auto;
 }
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1500px;
+}
