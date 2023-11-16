@@ -99,3 +99,8 @@ nav img{
     margin-right: auto;
     width: 1500px;
 }
+
+button{
+    padding: 20px 50px;
+    font-size:20px;
+}
